@@ -7,7 +7,6 @@ Interactive TUI tool for managing Velero backups in Kubernetes. Built with Go an
 
 - List all Velero backups with status, errors, warnings
 - Multi-select backups for deletion
-- Color-coded status: ✓ Completed | ✗ Failed | ⚠️ Partial
 - Confirmation prompt before irreversible deletion
 - Sorted by creation date (newest first)
 
