@@ -11,6 +11,8 @@ Interactive TUI tool for managing [Velero](https://velero.io/) backups in [Kuber
 - Confirmation prompt before irreversible deletion
 - Sorted by creation date (newest first)
 
+![velero-manager](assets/screenshot_01.png)
+
 ## Requirements
 
 - Go 1.19+
